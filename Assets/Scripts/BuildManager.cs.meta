@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95a68d0669e33ea4d97d875fad7f6104
+timeCreated: 1494889206
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BallistaTower: {fileID: 1519433395124412, guid: 89e888dcea35df347be30cf8246b1b1f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8e126b824c97f1c43b97463bf75cde80
+timeCreated: 1494870719
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bloodEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

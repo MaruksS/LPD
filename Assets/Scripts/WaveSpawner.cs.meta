@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c6400227e1920c440b77fb2a96f2a322
+timeCreated: 1494847722
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - creepPrefab: {fileID: 4778082979295310, guid: 9b8265b909948e041a23ef19f74e77c6,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
